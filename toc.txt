@@ -1,30 +1,32 @@
-Title: A Geonerd's Guide to Drinking at the ESRI-UC
+Title: A Drinker's guide to the ESRI-UC
 Author: @drunkarcpy
 
 Preface
 Chapter 1: Choosing Arival and Departal Dates
 Chapter 2: Your Hotel
 Chapter 3: Pre-Conference Preparations
-Chapter 4: San Diego Before the Conference
-Chapter 5: Monday: Plenary and Map Gallery Reception
-Chapter 6: Drinking for Free
+Chapter 4: Monday: Plenary and Map Gallery Reception
+            Before Lunch
+            After Lunch
+            Map Gallery Reception and Later
+Chapter 5: Drinking for Free
             Special Interest Group Parties
             Customer Appreciation Parties
             Account Managers
             Buddies
-Chapter 7: Drinking in the Gaslamp
+Chapter 6: Drinking in the Gaslamp
             Priming
             Where to drink in the Morning
             Where to drink in the Afternoon
             Where to drink in the Early Evening
             Where to drink in the Late Evening
             Where to drink in the Early Morining
-Chapter 8: Drinking at the Beach
+Chapter 7: Drinking at the Beach
             Bay Walk
             Mission Beach
             Coronado Beach            
             Pacific Beach
-Chapter 9: Drinking as a Tourist
+Chapter 8: Drinking as a Tourist
             Midway
             Old Town
             Boat Tour
@@ -34,10 +36,16 @@ Chapter 9: Drinking as a Tourist
             La Jolla
             Scripts Aquarium
             Tijuana
-Chapter 10: Master of Your Domain
+Chapter 9: Master of Your Domain
             Social Media
             Not Being an Ass
+Chapter 10: Geogeeks Gone Wild
+            Tijuana
+            Getting Mugged
+            Going to the ER
+            Getting out of Jail
 Chapter 11: Curing the Hangover
 Chapter 12: Friday: Closing Session
-Chapter 13: Going Home and Back to Work
+Chapter 13: Everything is Fine: Going Home and Back to Work
+Chpater 14: Bonus: DevSummit
 Epilogue
