@@ -9,7 +9,7 @@ Getting something out of the UC would be helpful too. Otherwise you may not get 
 
 Writing a guide is hard. It's harder when your either coding or drinking. So let's crowdsource this! 
 
-If the guide is completed, an attempt to publish it as an ebook may be made. The profits will be donated to GISCorps, unless the profits are so huge that I could quit my daytime GIS-job and live off the ebook profits.  
+If the guide is completed, an attempt to publish it as an ebook may be made. I will use the profits* to buy alcohol for people at geospatial conferences. I might live off the ebook profits if I have too.  (* We're talking about $100 at best)
 
 @drunkarcpy will have the final say in all things.
 
